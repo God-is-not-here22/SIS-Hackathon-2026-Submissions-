@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Rahul", "home": { "lat": 12.9716, "lng": 77.5946 }, "live": { "lat": 12.9701, "lng": 77.5920 }, "available": true },
+  { "id": 2, "name": "Aisha", "home": { "lat": 12.9616, "lng": 77.5846 }, "live": { "lat": 12.9602, "lng": 77.5861 }, "available": true },
+  { "id": 3, "name": "Vikram", "home": { "lat": 12.9816, "lng": 77.6046 }, "live": { "lat": 12.9824, "lng": 77.6012 }, "available": false },
+  { "id": 4, "name": "Meera", "home": { "lat": 12.9516, "lng": 77.5746 }, "live": { "lat": 12.9528, "lng": 77.5783 }, "available": true },
+  { "id": 5, "name": "Arjun", "home": { "lat": 12.9916, "lng": 77.6146 }, "live": { "lat": 12.9902, "lng": 77.6101 }, "available": true },
+  { "id": 6, "name": "Kavya", "home": { "lat": 12.9452, "lng": 77.6003 }, "live": { "lat": 12.9475, "lng": 77.6021 }, "available": true },
+  { "id": 7, "name": "Rohan", "home": { "lat": 12.9873, "lng": 77.5758 }, "live": { "lat": 12.9854, "lng": 77.5799 }, "available": false },
+  { "id": 8, "name": "Sneha", "home": { "lat": 12.9584, "lng": 77.6201 }, "live": { "lat": 12.9600, "lng": 77.6225 }, "available": true },
+  { "id": 9, "name": "Aditya", "home": { "lat": 12.9345, "lng": 77.5890 }, "live": { "lat": 12.9362, "lng": 77.5923 }, "available": true },
+  { "id": 10, "name": "Nisha", "home": { "lat": 12.9998, "lng": 77.6284 }, "live": { "lat": 12.9981, "lng": 77.6252 }, "available": true },
+  { "id": 11, "name": "Harsh", "home": { "lat": 12.9431, "lng": 77.6124 }, "live": { "lat": 12.9457, "lng": 77.6100 }, "available": true },
+  { "id": 12, "name": "Priya", "home": { "lat": 12.9754, "lng": 77.5678 }, "live": { "lat": 12.9730, "lng": 77.5701 }, "available": true },
+  { "id": 13, "name": "Manoj", "home": { "lat": 12.9890, "lng": 77.5932 }, "live": { "lat": 12.9877, "lng": 77.5968 }, "available": false },
+  { "id": 14, "name": "Tanvi", "home": { "lat": 12.9550, "lng": 77.6400 }, "live": { "lat": 12.9568, "lng": 77.6374 }, "available": true },
+  { "id": 15, "name": "Deepak", "home": { "lat": 12.9305, "lng": 77.6105 }, "live": { "lat": 12.9322, "lng": 77.6083 }, "available": true }
+]

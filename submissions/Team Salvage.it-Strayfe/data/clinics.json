@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "City Animal ICU", "location": { "lat": 12.9750, "lng": 77.5900 }, "hasICU": true },
+  { "id": 2, "name": "Green Paws Clinic", "location": { "lat": 12.9650, "lng": 77.5800 }, "hasICU": false },
+  { "id": 3, "name": "Urban Vet Center", "location": { "lat": 12.9850, "lng": 77.6100 }, "hasICU": true },
+  { "id": 4, "name": "Hope Animal Hospital", "location": { "lat": 12.9500, "lng": 77.6000 }, "hasICU": true },
+  { "id": 5, "name": "Care4Paws Clinic", "location": { "lat": 12.9400, "lng": 77.5850 }, "hasICU": false },
+  { "id": 6, "name": "PetLife Emergency", "location": { "lat": 12.9900, "lng": 77.6200 }, "hasICU": true },
+  { "id": 7, "name": "Companion Vet Hub", "location": { "lat": 12.9600, "lng": 77.6350 }, "hasICU": false },
+  { "id": 8, "name": "Animal Relief Center", "location": { "lat": 12.9350, "lng": 77.6050 }, "hasICU": true }
+]

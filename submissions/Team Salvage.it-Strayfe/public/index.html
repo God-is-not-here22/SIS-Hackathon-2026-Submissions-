@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>STRAYFE</title>
+</head>
+<body>
+  <h1>Report Injured Stray</h1>
+
+  <form id="reportForm">
+    <label><input type="checkbox" value="seizure"> Seizure</label><br>
+    <label><input type="checkbox" value="unconscious"> Unconscious</label><br>
+    <label><input type="checkbox" value="heavy_bleeding"> Heavy Bleeding</label><br>
+    <label><input type="checkbox" value="vomiting"> Vomiting</label><br>
+    <label><input type="checkbox" value="limping"> Limping</label><br><br>
+
+    <label>Latitude:</label>
+    <input type="number" step="any" id="lat" required><br><br>
+
+    <label>Longitude:</label>
+    <input type="number" step="any" id="lng" required><br><br>
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <h2>Result</h2>
+  <pre id="result"></pre>
+
+  <script src="script.js"></script>
+</body>
+</html>
